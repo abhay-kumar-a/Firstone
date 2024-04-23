@@ -8,3 +8,5 @@ small test
 spellings 
 . layout -> HTMl
 . alignment
+. familier
+. x-axis , y-axis.
