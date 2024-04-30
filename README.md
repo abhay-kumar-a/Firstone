@@ -10,3 +10,5 @@ spellings
 . alignment
 . familier
 . x-axis , y-axis.
+. therefore.
+occurrences 
