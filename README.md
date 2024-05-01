@@ -12,3 +12,4 @@ spellings
 . x-axis , y-axis.
 . therefore.
 occurrences 
+considerations
