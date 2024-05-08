@@ -14,3 +14,4 @@ spellings
 occurrences 
 considerations
 tinny
+halves
